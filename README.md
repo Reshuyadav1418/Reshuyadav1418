@@ -1,24 +1,120 @@
+<!-- 🧠 Typing Animation Banner -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Reshu+Yadav+👋;Frontend+%7C+MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+Next.js+%7C+TypeScript+%7C+Docker+🚀)
+
+</div>
+
+<!-- ⚡ Name & Title -->
+<h1 align="center">Reshu Yadav</h1>
+<p align="center">
+  <b>MERN Stack Developer | Frontend-Focused | React Enthusiast</b>
+</p>
+
+<p align="center">
+  💻 B.Tech CSE student passionate about building <b>scalable, user-friendly web applications</b> using MERN stack.<br>
+  🌐 Experienced in developing <b>full-stack projects</b> with secure authentication, role-based access, and REST APIs.<br>
+  ⚡ Strong foundation in <b>DSA & problem-solving</b> with 200+ LeetCode questions solved.<br>
+  🚀 Currently learning <b>TypeScript, Next.js, Docker & CI/CD pipelines</b> to build production-ready applications.<br>
+  ✨ Focused on clean UI, responsive design, and real-world problem solving.
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)
+
+---
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+
+---
+
+### 🧠 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+
+---
+
+## 🚀 Projects
+
+### 🌍 **Vacation Vibe — Tours & Travel Booking Platform**
+🔗 GitHub | Live Demo  
+📅 May 2025 – June 2025  
+
+- Built a **full-stack MERN travel booking platform** with JWT authentication, secure cookies, and role-based access (User/Admin).  
+- Developed **RESTful APIs** for tours, bookings, search & filter, and admin dashboard operations.  
+- Integrated **Razorpay payment gateway** for secure online transactions.  
+- Designed a fully responsive, modern UI using **React & Tailwind CSS**.
+
+**Tech Stack:** React, Tailwind CSS, Context API, Axios, Node.js, Express.js, MongoDB, Razorpay API
+
+---
+
+### 🌾 **Fasal Rakshak — Pest Identification Platform**
+🔗 GitHub  
+📅 Aug 2025 – Sept 2025  
+
+- Developed an **AI-based pest identification & crop advisory platform** with secure JWT authentication.  
+- Integrated **ML models** for pest image classification and visualized pest spread in tabular format.  
+- Used **MongoDB & Cloudinary** for secure data and image storage.  
+- Focused on **farmer-friendly UI/UX** with responsive and intuitive design.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Python, NumPy, Pandas, OpenCV
+
+---
+
+## 🏫 Training & Internship
+
+### 🚆 **Supervisor’s Training Center — Northern Railway, Lucknow**
+📅 July 2025 – Aug 2025  
+
+**Project:** Data Keeping & Management System for STC  
+
+- Built a system to manage trainee joining records, feedback, training schedules, exams, and marks.  
+- Designed **modular, user-friendly interfaces** to streamline administrative work.  
+- Implemented structured data handling and **automated reporting** for improved accuracy.  
+- Ensured secure storage and smooth access to trainee data.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Git & GitHub
+
+---
+
+## 🏆 Achievements
+- Solved **200+ DSA problems** on LeetCode (120 Medium, 86 Easy, including Hard).  
+- **Samsung Innovation Campus Hackathon Participant (2025)**.
+
+---
 
 
-<!--
-**Reshuyadav1418/Reshuyadav1418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
+- 💻 GitHub: https://github.com/your-github-username  
+- 🧠 LeetCode: https://leetcode.com/your-leetcode-id  
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-id  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h1 align="center">Hi 👋, I'm Reshu Yadav</h1>
-<h3 align="center">A passionate Frontened developer from India</h3>
+⭐ *Always learning, always building — turning ideas into real-world solutions.*
 
 
 
