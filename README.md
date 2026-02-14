@@ -101,7 +101,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack(MongoDB, Express.js, React.js, Node.js) and DSA**
+- 🌱 Currently learning TypeScript, Next.js, Docker & CI/CD pipelines and DSA**
 
 - 📫 How to reach me **reshuyadav1409@gmail.com**
 
