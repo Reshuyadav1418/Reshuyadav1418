@@ -92,7 +92,7 @@
 ## 📫 Connect With Me
 - 💻 GitHub: https://github.com/your-github-Reshuyadav1418  
 - 🧠 LeetCode: https://leetcode.com/u/reshu_yadav1418/ 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-id ](https://www.linkedin.com/in/reshu0803/
+- 💼 LinkedIn: https://www.linkedin.com/in/reshu0803/
 
 
 ---
@@ -104,11 +104,4 @@
 - 🌱 I’m currently learning **MERN Stack(MongoDB, Express.js, React.js, Node.js) and DSA**
 
 - 📫 How to reach me **reshuyadav1409@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/ReshuYa73527618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ReshuYa73527618" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/reshu0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshu0803" height="30" width="40" /></a>
-<a href="https://instagram.com/reshu_yadav1418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reshu_yadav1418" height="30" width="40" /></a>
-</p>
 
