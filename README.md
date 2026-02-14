@@ -84,33 +84,16 @@
 
 ---
 
-## 🏫 Training & Internship
 
-### 🚆 **Supervisor’s Training Center — Northern Railway, Lucknow**
-📅 July 2025 – Aug 2025  
 
-**Project:** Data Keeping & Management System for STC  
 
-- Built a system to manage trainee joining records, feedback, training schedules, exams, and marks.  
-- Designed **modular, user-friendly interfaces** to streamline administrative work.  
-- Implemented structured data handling and **automated reporting** for improved accuracy.  
-- Ensured secure storage and smooth access to trainee data.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Git & GitHub
-
----
-
-## 🏆 Achievements
-- Solved **200+ DSA problems** on LeetCode (120 Medium, 86 Easy, including Hard).  
-- **Samsung Innovation Campus Hackathon Participant (2025)**.
-
----
 
 
 ## 📫 Connect With Me
-- 💻 GitHub: https://github.com/your-github-username  
-- 🧠 LeetCode: https://leetcode.com/your-leetcode-id  
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-id  
+- 💻 GitHub: https://github.com/your-github-Reshuyadav1418  
+- 🧠 LeetCode: https://leetcode.com/u/reshu_yadav1418/ 
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-id ](https://www.linkedin.com/in/reshu0803/
+
 
 ---
 
